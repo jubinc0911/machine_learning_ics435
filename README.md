@@ -1,1 +1,1 @@
-# ics435_hw1
+# machine_learning_ics435
