@@ -5,6 +5,6 @@ University of Hawaii, Manoa
 - Instructor: Haopeng Zhang
 
 
-  -- ICS435_HW1_Ju-Bin_Choi.ipynb
-  -- ICS435_Assignment4_Ju-Bin_Choi.ipynb : 
+-- ICS435_HW1_Ju-Bin_Choi.ipynb
+-- ICS435_Assignment4_Ju-Bin_Choi.ipynb : 
 
